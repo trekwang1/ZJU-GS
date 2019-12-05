@@ -1,4 +1,4 @@
-前言：感谢Yinze前辈指导
+前言：看到不败光电的课程共享计划，也想做一个地院的。感谢Yinze前辈指导
 # ZJU-GS 课程资源共享计划
 ![image](https://github.com/LITCHIBOY/ZJU-GS/blob/master/Readme_Img/b1dca1d2fb04a2d934705fe0d9f00a7.png?raw=true)
 
