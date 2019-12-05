@@ -26,7 +26,7 @@
 [地理空间数据库](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/地理空间数据库)
 [数据结构基础](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/数据结构基础)
 [测量学](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/测量学)
-[然地理学](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/自然地理学)
+[自然地理学](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/自然地理学)
 
 ### 人文地理与城乡规划
 
