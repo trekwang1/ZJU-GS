@@ -7,6 +7,8 @@
 [计算机图形学](https://github.com/LITCHIBOY/ZJU-GS/tree/master/计算机图形学)
 [地理信息系统](https://github.com/LITCHIBOY/ZJU-GS/tree/master/地理信息系统)
 [数据结构基础](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/数据结构基础)
+[离散数学及其应用](https://github.com/LITCHIBOY/ZJU-GS/tree/master/离散数学及其应用)
+
 
 ### 大气科学
 
